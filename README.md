@@ -49,8 +49,5 @@ Ejecutar Proyecto Streaming (Demostración Visual en dos terminales):
 Terminal 1 (Productor): python3 kafka_producer.py
 
 Terminal 2 (Consumidor Spark): spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3 spark_streaming_consumer.py
-#### **Paso 3: Guardar el Documento**
 
-1.  Una vez que hayas copiado todo el texto, baja al final de la página del editor.
-2.  Escribe un pequeño mensaje en el cuadro de "Commit changes" (por ejemplo: `Documentación completa del proyecto y resultados finales`).
-3.  Haz clic en el botón verde **"Commit changes"** (Guardar cambios) en la esquina superior derecha.
+
